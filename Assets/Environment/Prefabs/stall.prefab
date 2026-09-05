@@ -108,7 +108,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: c9bbd615f1d284c5a9998d48c8c1e95d, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 144ca74bae4e54200bd1c3f3e2a83a5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 152fb2f34026149bfa41f30fea88d542, type: 2}
     - target: {fileID: 919132149155446097, guid: c9bbd615f1d284c5a9998d48c8c1e95d, type: 3}
       propertyPath: m_Name
       value: SM_stall_pillar (1)
@@ -240,7 +240,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: c9bbd615f1d284c5a9998d48c8c1e95d, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 144ca74bae4e54200bd1c3f3e2a83a5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 152fb2f34026149bfa41f30fea88d542, type: 2}
     - target: {fileID: 919132149155446097, guid: c9bbd615f1d284c5a9998d48c8c1e95d, type: 3}
       propertyPath: m_Name
       value: SM_stall_pillar
@@ -269,7 +269,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c7b4c1d3f4c094fbe846fef548caa194, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.034
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c7b4c1d3f4c094fbe846fef548caa194, type: 3}
       propertyPath: m_LocalPosition.z
@@ -306,7 +306,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: c7b4c1d3f4c094fbe846fef548caa194, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 144ca74bae4e54200bd1c3f3e2a83a5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 8ba02db0518214a22944d2b0a77b30e1, type: 2}
     - target: {fileID: 919132149155446097, guid: c7b4c1d3f4c094fbe846fef548caa194, type: 3}
       propertyPath: m_Name
       value: SM_stall_roof
