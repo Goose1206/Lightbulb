@@ -1,18 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-6951286524038653878
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Editor::UnityEditor.Rendering.Universal.AssetVersion
-  version: 10
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -20,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_wall_pillar
+  m_Name: M_wall_tris
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -43,11 +30,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: d46d9c96e99d440cd90eb43b2277f3bd, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+        m_Texture: {fileID: 2800000, guid: f15ce77d9ac9cb240a852b886b43c498, type: 3}
+        m_Scale: {x: -0.49, y: -0.49}
+        m_Offset: {x: 0.74, y: 3.84}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: a3ba1dc6269544410b00d8e41d881c0c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 28ae83b850458724bad6c590f79522a5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -67,19 +54,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: d46d9c96e99d440cd90eb43b2277f3bd, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+        m_Texture: {fileID: 2800000, guid: f15ce77d9ac9cb240a852b886b43c498, type: 3}
+        m_Scale: {x: -0.49, y: -0.49}
+        m_Offset: {x: 0.74, y: 3.84}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 1be5de77e08064768800fc8f29ca52af, type: 3}
+        m_Texture: {fileID: 2800000, guid: b1020fe8dda22e745b16bf0b5ff72269, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: b2569cb94a01e40998bdcf59ec7fbd53, type: 3}
+        m_Texture: {fileID: 2800000, guid: 110579b3750541b4b8c7fbbbe8689df4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 2800000, guid: a25c172b735be455091fcea85989ee05, type: 3}
+        m_Texture: {fileID: 2800000, guid: 88a36e263f3956242aeee1d0b75ce680, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
@@ -133,9 +120,22 @@ Material:
     - _XRMotionVectorsPass: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.59617656, g: 0.574515, b: 0.8066038, a: 1}
-    - _Color: {r: 0.59617656, g: 0.57451504, b: 0.8066038, a: 1}
+    - _BaseColor: {r: 0.8627451, g: 0.8117647, b: 0.7647059, a: 1}
+    - _Color: {r: 0.8627451, g: 0.8117647, b: 0.7647059, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
+--- !u!114 &4006918938894145551
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Editor::UnityEditor.Rendering.Universal.AssetVersion
+  version: 10
