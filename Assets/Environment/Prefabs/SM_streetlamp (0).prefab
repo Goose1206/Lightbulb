@@ -183,6 +183,10 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
       objectReference: {fileID: 2100000, guid: 23b1f80a888314d158050b02e747d25c, type: 2}
+    - target: {fileID: -5754084199372789682, guid: 7c13e11128bbc4ae2b9069bac5090275, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -42915765148725955, guid: 3e2b223eb4c97412b86b2c4cf04f5cb2, type: 3}
     - target: {fileID: 919132149155446097, guid: 7c13e11128bbc4ae2b9069bac5090275, type: 3}
       propertyPath: m_Name
       value: SM_streetlamp (0)

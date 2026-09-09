@@ -545,7 +545,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 8dec072f2be0b4113899c0a791c32657, type: 3}
+  m_Resource: {fileID: 8300000, guid: 356a4c7abe00147cb97155951ebe7d29, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.25
   m_Pitch: 1
@@ -2027,7 +2027,7 @@ PrefabInstance:
     - {fileID: 532661323920775689, guid: cb3a05e1746234493be43241199e0866, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 4830080456793185729, guid: cb3a05e1746234493be43241199e0866, type: 3}
-      insertIndex: 1
+      insertIndex: -1
       addedObject: {fileID: 1758371917}
     - targetCorrespondingSourceObject: {fileID: 4830080456793185729, guid: cb3a05e1746234493be43241199e0866, type: 3}
       insertIndex: -1
