@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_door
+  m_Name: M_door_trim
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -30,11 +30,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 73b24c754941260438c92b6ef9914c26, type: 3}
+        m_Texture: {fileID: 2800000, guid: c0bc0cfca75b34b4ba482e6c1c79d031, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: c65e4a9cc6e6bba44b2ea580d0f8a6c3, type: 3}
+        m_Texture: {fileID: 2800000, guid: ca8f01458171ebe478a35909eed3e90c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -54,19 +54,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 73b24c754941260438c92b6ef9914c26, type: 3}
+        m_Texture: {fileID: 2800000, guid: c0bc0cfca75b34b4ba482e6c1c79d031, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: caf363582d870554aa84d1aa2fd1f798, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4cda1b7de2d62814b895e0a1077e70a2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: 901c951766884e042b32a92560759410, type: 3}
+        m_Texture: {fileID: 2800000, guid: 8c7d823592c75da4fa2a1e627b1d0a12, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 2800000, guid: 763334ddc48f85b44aa254fdd0ae7cd2, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5d3540d07ae0bc4499630a81968a453a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
@@ -126,7 +126,7 @@ Material:
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &6828573646397972978
+--- !u!114 &625708463849333757
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

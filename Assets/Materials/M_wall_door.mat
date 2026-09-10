@@ -30,11 +30,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 09a682d5d2d34e448808d887033c3fef, type: 3}
+        m_Texture: {fileID: 2800000, guid: ebc8e893e8c193c4a92d739b321868f0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 72f63acd28682ab479965a9c9536a195, type: 3}
+        m_Texture: {fileID: 2800000, guid: ce6c4c501f5a15e4381e30015f40a484, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -54,19 +54,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 09a682d5d2d34e448808d887033c3fef, type: 3}
+        m_Texture: {fileID: 2800000, guid: ebc8e893e8c193c4a92d739b321868f0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 5fdf735ba9d891e46ac046ee81c0d426, type: 3}
+        m_Texture: {fileID: 2800000, guid: f0233b92cdf3d0b4db34c0172640ed56, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: 6e011e5c1b45aba41911285039f612db, type: 3}
+        m_Texture: {fileID: 2800000, guid: f62965ec71c81a3419cca389f49c0a0d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 2800000, guid: dfab8a00145e37b4a936764678d038ef, type: 3}
+        m_Texture: {fileID: 2800000, guid: bb60fc59df9bb1446ba46bcefea6cd70, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
@@ -126,7 +126,7 @@ Material:
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &2239371903552516966
+--- !u!114 &5759275579072509155
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
