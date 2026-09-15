@@ -51,7 +51,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 0ac0b6757612541a5b15b596c3d38668, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 37d60e9a8e0bf447b94d3fb1cc4ee16b, type: 2}
+      objectReference: {fileID: 2100000, guid: d1a9bed98474244a4834d5b8efcae227, type: 2}
     - target: {fileID: 919132149155446097, guid: 0ac0b6757612541a5b15b596c3d38668, type: 3}
       propertyPath: m_Name
       value: SM_blackboard
